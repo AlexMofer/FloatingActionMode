@@ -1,0 +1,3 @@
+rootProject.name = "FloatingActionMode"
+include ':app'
+include ':floatingactionmode'
